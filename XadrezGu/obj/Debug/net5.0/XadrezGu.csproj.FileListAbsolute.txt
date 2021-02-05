@@ -1,0 +1,16 @@
+/home/guotaviano/Documentos/ProgramacaoC#/XadrezGu/bin/Debug/net5.0/XadrezGu
+/home/guotaviano/Documentos/ProgramacaoC#/XadrezGu/bin/Debug/net5.0/XadrezGu.deps.json
+/home/guotaviano/Documentos/ProgramacaoC#/XadrezGu/bin/Debug/net5.0/XadrezGu.runtimeconfig.json
+/home/guotaviano/Documentos/ProgramacaoC#/XadrezGu/bin/Debug/net5.0/XadrezGu.runtimeconfig.dev.json
+/home/guotaviano/Documentos/ProgramacaoC#/XadrezGu/bin/Debug/net5.0/XadrezGu.dll
+/home/guotaviano/Documentos/ProgramacaoC#/XadrezGu/bin/Debug/net5.0/ref/XadrezGu.dll
+/home/guotaviano/Documentos/ProgramacaoC#/XadrezGu/bin/Debug/net5.0/XadrezGu.pdb
+/home/guotaviano/Documentos/ProgramacaoC#/XadrezGu/obj/Debug/net5.0/XadrezGu.csprojAssemblyReference.cache
+/home/guotaviano/Documentos/ProgramacaoC#/XadrezGu/obj/Debug/net5.0/XadrezGu.GeneratedMSBuildEditorConfig.editorconfig
+/home/guotaviano/Documentos/ProgramacaoC#/XadrezGu/obj/Debug/net5.0/XadrezGu.AssemblyInfoInputs.cache
+/home/guotaviano/Documentos/ProgramacaoC#/XadrezGu/obj/Debug/net5.0/XadrezGu.AssemblyInfo.cs
+/home/guotaviano/Documentos/ProgramacaoC#/XadrezGu/obj/Debug/net5.0/XadrezGu.csproj.CoreCompileInputs.cache
+/home/guotaviano/Documentos/ProgramacaoC#/XadrezGu/obj/Debug/net5.0/XadrezGu.dll
+/home/guotaviano/Documentos/ProgramacaoC#/XadrezGu/obj/Debug/net5.0/ref/XadrezGu.dll
+/home/guotaviano/Documentos/ProgramacaoC#/XadrezGu/obj/Debug/net5.0/XadrezGu.pdb
+/home/guotaviano/Documentos/ProgramacaoC#/XadrezGu/obj/Debug/net5.0/XadrezGu.genruntimeconfig.cache
